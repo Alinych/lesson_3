@@ -1,0 +1,74 @@
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*ul,*/
+/*ol,*/
+/*li {*/
+/*    list-style: none;*/
+/*}*/
+
+img {
+    vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+a {
+    color: darkgreen;
+    font-weight: bold;
+}
+.content p {
+    margin-left: 20px;
+}
+
+.content {
+    color: blue;
+}
+
+li {
+    color: indigo;
+    margin-left: 15px;
+}
+
+.title {
+    font-size: 20px;
+    color: crimson;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-weight: bold;
+    font-size: 18px;
+    color: midnightblue;
+}
+
+.subtitle_item {
+    color: brown;
+}
+
+main span {
+    font-weight: bold;
+}
+
